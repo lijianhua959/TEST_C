@@ -419,3 +419,4 @@ FodyWeavers.xsd
 
 # Custom add.
 CMakeLists.txt
+build/
